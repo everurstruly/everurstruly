@@ -7,6 +7,6 @@
 - Building 3+ number of public side projects (personal-site, ecommerce, social-media...)
 - Learning Next.js, Redux, CMS(s), Enterpreneurship
 
-📫 Should you wish to connect or discuss exciting collaboration opportunities, I'm all ears! and open to connecting and exploring potential avenues where we can contribute to the ever-evolving digital landscape together. 
+📫 Should you wish to connect or discuss exciting collaboration opportunities, I'm all ears!, open to connecting and exploring potential avenues where we can contribute to the ever-evolving digital landscape together. 
 - Linkedin: www.linkedin.com/in/oghenetefa
 - Telegram: [t.me/oldprojectt](https://t.me/oldprojectt)
