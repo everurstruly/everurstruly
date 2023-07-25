@@ -3,7 +3,7 @@
 🎈 Focus & Interests: Full Stack Development, Blockchain Technology, ICT Project Management, SDGs(2). 
 
 🔭 I’m Currently
-- Studying to earn a BTech degree in Project Management Technology
+- Studying to earn a BTech degree in Project Management Technology @ FUTA, Nigeria
 - Building 3+ number of public side projects (personal-site, ecommerce, social-media...)
 - Learning Next.js, Redux, CMS(s)
 
