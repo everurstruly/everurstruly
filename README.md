@@ -12,3 +12,4 @@
 - Telegram: [t.me/oldprojectt](https://t.me/oldprojectt)
 
 🎭 Fun facts
+- Etefa is a short form of my firstname "Oghenetefa", said to be interpreted as "What the world says is different from what God is saying" by my Grandpa :)
