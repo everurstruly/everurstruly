@@ -9,5 +9,5 @@
 
 📫 Should you wish to connect or discuss exciting collaboration opportunities, I'm all ears!, open to connecting and exploring potential avenues where we can contribute to the ever-evolving digital landscape together. Linkedin: www.linkedin.com/in/oghenetefa, Telegram: [t.me/oldprojectt](https://t.me/oldprojectt)
 
-🎭 Fun facts
-- Etefa is a short form of my firstname "Oghenetefa", said to be interpreted as "What the world says is different from what God is saying" by my Grandpa :)
+<!-- 🎭 Fun facts
+-->
