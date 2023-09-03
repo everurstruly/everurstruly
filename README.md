@@ -1,4 +1,4 @@
-### 👋 Hii! I'm Etefa, Web developer and Blockchain enthusiast
+### 👋 Hii! I'm Emmanuel, Web developer and Blockchain enthusiast
 
 🎈 Focus & Interests: Full Stack Development, Blockchain Technology, ICT Project Management, Entrepreneurship. 
 
