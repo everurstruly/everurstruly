@@ -1,4 +1,4 @@
-### 👋 Hii! I'm Emmanuel, Web developer and Blockchain enthusiast
+## 👋 Hii! I'm Emmanuel, Web developer and Blockchain enthusiast
 
 🎈 Focus & Interests: Backend Development, Blockchain Development, ICT Project Management, Entrepreneurship. 
 
