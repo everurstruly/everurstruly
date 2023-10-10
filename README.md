@@ -1,10 +1,7 @@
 ### 👋 Hii! I'm Emmanuel, Web developer and Blockchain enthusiast
 
-🎈 Focus & Interests 
-- Backend Development
-- Blockchain Development
-- Entrepreneurship
-- ICT Project Management
+🎈 Focus & Interests:-
+Backend Development; Blockchain Development; Entrepreneurship; ICT Project Management
 
 🔭 I’m Currently
 - Studying to earn a BTech degree in Project Management Technology @ FUTA, Nigeria
