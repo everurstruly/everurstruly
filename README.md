@@ -1,8 +1,5 @@
 ### Web-Centric Programmer actively involved in Project Management and Blockchain Exploration
 
-🎈 Focus & Interests:-
-Backend Development; Blockchain Development; Entrepreneurship; IT Project Management
-
 🔭 I’m Currently
 - Studying to earn a BTech degree in Project Management Technology @ FUTA, Nigeria
 - Learning and Improving upon Entrepreneurship, Project Management, Redux, Next.js, Django and Software testing skills
