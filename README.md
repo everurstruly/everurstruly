@@ -1,7 +1,7 @@
 ### Web-Centric Programmer actively involved in Project Management and Blockchain Exploration
 
 🔭 I’m Currently
-- Studying to earn a B. Tech. degree in Project Management Technology @ FUTA, Nigeria.
+- Studying to earn a B. Tech. degree in Project Management Technology at FUTA in Ondo, Nigeria.
 - Developing more than two side projects (ecommerce, productivity, marketing, education).
 - Learning and improving upon Entrepreneural, Next.js, Django, Blockchain, Redux and Software Testing skills.
 
