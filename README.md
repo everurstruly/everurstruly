@@ -1,4 +1,4 @@
-### Web-Centric Programmer actively involved in Project Management and Blockchain Exploration
+### Software developer actively involved in Project Management
 
 🔭 I’m Currently
 - Studying to earn a B. Tech. degree in Project Management Technology at FUTA in Ondo, Nigeria.
