@@ -3,10 +3,10 @@
 - Building a portfolio (commerce, management, marketing, productivity).
 - Learning and improving upon Entrepreneural, Next.js, Django, Blockchain, Redux and Software Testing skills.
 
-</br>
-
+<!-- </br>
 💼 Work Experience
 - **Front-end Develoer at Studio Doresh** @ Remote, Full-time • 2021-2022: </br>Worked in a team of diverse individuals under mentorship to create marketing, dynamic and responsive applications.
+-->
 
 <!-- #### 📫 Should you wish to connect 
 I'm open to discussing collaboration opportunities and sharing ideas. Lets explore potential avenues where we can contribute to the ever-evolving digital landscape together.
