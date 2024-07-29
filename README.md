@@ -1,5 +1,3 @@
-## Software developer actively involved in Project Management
-
 #### 🌱 I’m Currently
 - Studying to earn a B. Tech. degree in Project Management at FUTA in Ondo, Nigeria.
 - Building a portfolio (commerce, management, marketing, productivity).
