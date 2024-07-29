@@ -1,9 +1,11 @@
-#### 🌱 I’m Currently
+🌱 I’m Currently
 - Studying to earn a B. Tech. degree in Project Management at FUTA in Ondo, Nigeria.
 - Building a portfolio (commerce, management, marketing, productivity).
 - Learning and improving upon Entrepreneural, Next.js, Django, Blockchain, Redux and Software Testing skills.
 
-#### 💼 Work Experience
+</br>
+
+💼 Work Experience
 - **Front-end Develoer at Studio Doresh** @ Remote, Full-time • 2021-2022: </br>Worked in a team of diverse individuals under mentorship to create marketing, dynamic and responsive applications.
 
 <!-- #### 📫 Should you wish to connect 
