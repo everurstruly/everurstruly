@@ -1,6 +1,6 @@
 ### 🌱 I’m Currently
 - Pursuing a B. Tech. degree in Project Management at FUTA, Ondo, Nigeria.
-- Enhancing skills in entrepreneurship, engineering, testing, fullstack development, and blockchain technology.
+- Enhancing skills in Entrepreneurship, Full-Stack Development, and Blockchain technology.
 
 <!-- </br>
 💼 Work Experience
