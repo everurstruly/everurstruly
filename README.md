@@ -1,6 +1,15 @@
 ### 🌱 I’m Currently
 - Pursuing a B. Tech. degree in Project Management at FUTA, Ondo, Nigeria.
-- Enhancing skills in Entrepreneurship, Full-Stack Development, and Blockchain technology.
+- Expanding knowledge in Entrepreneurship, IOT and Blockchain technology. 
+
+### 🎭 Ice Breakers
+* **Would you rather...**
+  * Would you rather refactor code all day or write documentation all day?
+  * Would you rather have all your code documented but messy, or perfectly structured but without a single comment?
+* **Question**: Introvert or Extrovert? :)
+ 
+#### **"Good code is like good humor; if you have to explain it, it’s not great."**
+
 
 <!-- </br>
 💼 Work Experience
@@ -17,6 +26,7 @@ I'm open to discussing collaboration opportunities and sharing ideas. Lets explo
 
 <!--
 ### 🎭 Fun Facts & Ice Breakers
+Would you rather refactor code all day or write documentation all day?
 
 - **Movie Buff:** I’m a fan of classic and romantic films like *Friends with Benefits* and *How I Met Your Mother.* What’s your favorite movie?
 - **Hobbyist Developer:** I love working on personal projects and tackling new coding challenges. Have any interesting projects or challenges to share?
