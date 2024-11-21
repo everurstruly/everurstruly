@@ -1,7 +1,7 @@
 ### 🌱 I’m Currently
 - Pursuing a B. Tech. degree in Project Management at FUTA, Ondo, Nigeria.
 - Expanding knowledge in Entrepreneurship, IOT and Blockchain technology.
-- Working on (https://rmlpay.vercel.app/dashboard, &nbsp; https://rmlvibezoffice.netlify.app/)
+- Building (https://rmlpay.vercel.app/dashboard, &nbsp; https://rmlvibezoffice.netlify.app/)
 
 <!--
 ### 🎭 Ice Breakers
