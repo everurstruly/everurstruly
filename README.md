@@ -1,7 +1,7 @@
-### 🌱 I’m Currently
+### 🌱 I’m Currently 
+- Building a [Trading & Virtual Top-Up Platform](https://rmlpay.vercel.app/dashboard) and its [Admin Portal](https://rmlvibezoffice.netlify.app/).
 - Pursuing a B. Tech. degree in Project Management at FUTA, Ondo, Nigeria.
 - Expanding knowledge in Entrepreneurship, IOT and Blockchain technology.
-- Building a [Trading & Top-Up Platform](https://rmlpay.vercel.app/dashboard) and its [Admin Portal](https://rmlvibezoffice.netlify.app/).
 
 <!--
 ### 🎭 Ice Breakers
