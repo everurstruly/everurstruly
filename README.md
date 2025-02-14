@@ -4,7 +4,7 @@
 - Expanding knowledge in Entrepreneurship, IOT and Blockchain technology.
 
 ### 🎭 Ice Breaker
-Would you rather, have all your code documented but messy, or perfectly structured but without a single comment? Hi! Frens call me LØGIC 
+Would you rather, have all your code documented but messy, or </br> perfectly structured but without a single comment? Hi! Frens call me LØGIC 
 
 <!--
 ### 🎭 Ice Breakers
