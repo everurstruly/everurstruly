@@ -1,4 +1,4 @@
-- Building a [Swap & Top-Up Finance Webapp](https://rmlpay.vercel.app/dashboard), with an [Admin Portal](https://rmlvibezoffice.netlify.app/).
+- Building a [Swap & Top-Up Finance Webapp](https://rmlpay.vercel.app/), with an [Admin Portal](https://rmlvibezoffice.netlify.app/).
 - Pursuing a B. Tech. degree in Project Management at FUTA, Ondo, Nigeria.
 - Expanding knowledge in Entrepreneurship, IOT and Blockchain technology.
 
