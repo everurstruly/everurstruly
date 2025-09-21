@@ -1,4 +1,4 @@
-- Building a [Off-Ramping Fintech Platform](https://rmlpay.vercel.app/), with an [Operator Portal](https://rmlvibezoffice.netlify.app/).
+- Building an [Off-Ramping Fintech Platform](https://rmlpay.vercel.app/).
 - Pursuing a B. Tech. degree in Project Management (Telecom, Energy, IT) at FUTA, Ondo, Nigeria.
 
 <!--
