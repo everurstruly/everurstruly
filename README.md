@@ -1,5 +1,5 @@
 - Building [Renna](https://renna.netlify.app) and [Off-Ramping Marketplace](https://rmlpay.vercel.app/).
-- Pursuing a B. Tech. degree in Project Management (Telecom, Energy, IT) at FUTA, Ondo, Nigeria.
+- Pursuing a B. Tech. degree in Project Management [Energy and Public Utility Infrastructure] at FUTA, Ondo, Nigeria.
 
 <!--
 ### 🎭 Ice Breaker
